@@ -16,7 +16,7 @@ This project analyzes Airbnb listings across various European cities to identify
 - Exploratory data analysis (`matplotlib`, `seaborn`)
 
 ## 📁 Repository Structure
-
+```
 airbnb-eu-price/
 │
 ├── data/
