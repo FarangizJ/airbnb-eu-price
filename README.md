@@ -2,20 +2,20 @@
 
 This project analyzes Airbnb listings across various European cities to identify price trends, understand factors influencing pricing, and determine the most and least expensive destinations.
 
-##  Dataset
+## Dataset
 - **Name:** Airbnb Prices in European Cities  
 - **Source:** [Airbnb Europe Datadet](https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset) 
 
-## 🎯 Objectives
+## Objectives
 - Compare average prices across cities
 - Identify key factors influencing price
 - Visualize price distribution and patterns
 
-## 🧠 Methodology
+## Methodology
 - Data cleaning and preprocessing (`pandas`, `numpy`)
 - Exploratory data analysis (`matplotlib`, `seaborn`)
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 airbnb-eu-price/
 │
@@ -33,6 +33,8 @@ airbnb-eu-price/
 ├── requirements.txt 
 ├── LICENSE
 └── README.md
+
+```
 
 ## License
 
