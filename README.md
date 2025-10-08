@@ -48,3 +48,6 @@ seaborn
 notebook
 
 ## analysis.ipynb
+This is Jupyter notebook which runs in VS Code, and was tested with Python notebook as well, 
+the difference is maybe you will not need to show the Path, while I needed it to enter my project from VS vode. 
+
